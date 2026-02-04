@@ -22,7 +22,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="mailto:yourmail@gmail.com">
+      <a href="mailto:chandan931586@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
       </a><br/>
       <b>Email</b>
